@@ -1,2 +1,2 @@
-# AodhanSchwarz.github.ioy
+# AodhanSchwarz.github.io
 Aodhans website
